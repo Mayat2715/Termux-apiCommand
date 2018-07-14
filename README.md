@@ -1,5 +1,6 @@
 # Termux-apiCommand
-mempermudah pengguna memakai termux-API
+!mempermudah pengguna memakai termux-API
+
 untuk pertama kali pakai, pastikan termux-api sudah terinstall
 
 ![image1](https://preview.ibb.co/cPkRwo/Screenshot_2018_07_14_13_51_53_752_com_android_vending.png)
