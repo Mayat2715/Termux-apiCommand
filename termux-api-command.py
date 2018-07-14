@@ -102,7 +102,7 @@ elif makan == "6" or makan == "06":
     print "otomatis kesimpen di sdcard dan berformat jpeg"
     poto = raw_input("nama filenya coeg #> ")
     hmm = raw_input("0/1 [note 0 kamera belakang 1 kamera depan] ")
-    os.system("termux-camera-photo -c %s /sdcard/%s.jpeg"%(hmm, poto))
+    os.system("termux-camera-photo -c %s /sdcard/%s.JPEG"%(hmm, poto))
     nanyacoeg()
 elif makan == "7" or makan == "07":
     os.system("termux-clipboard-get")
@@ -389,7 +389,7 @@ elif makan == "28":
     -d durasi   untuk bergetar dalam ms (default: 1000)
     -f  memaksa getaran dalam mode senyap"""
     durasi = raw_input("durasinya coeg&> ")
-    senyap = raw_input("mode senyap[Y/N]Â> ")
+    senyap = raw_input("mode senyap[Y/N]Ã‚> ")
     if senyap == "Y" or senyap == "y":
         os.system('%s -d %s -f'%(bzz, durasi))
         nanyacoeg()
