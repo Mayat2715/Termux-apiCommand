@@ -1,5 +1,6 @@
 # Termux-apiCommand
-!mempermudah pengguna memakai termux-API
+
+# mempermudah pengguna memakai termux-API
 
 untuk pertama kali pakai, pastikan termux-api sudah terinstall
 
