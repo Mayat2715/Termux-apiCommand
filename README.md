@@ -9,6 +9,7 @@ dan pastikan
 ![image2](https://preview.ibb.co/niVgU8/Screenshot_2018_07_12_10_47_46_599_com_miui_securitycenter.png)
 ![image3](https://preview.ibb.co/dat1U8/Screenshot_2018_07_12_10_47_22_693_com_google_android_packageinstaller.png)
 
-untuk instalasinya
-pkg install termux-api
-git clone https://github.com/MrStalkers121/Termux-apiCommand
+untuk instalasinya:
+
+$ pkg install termux-api 
+$ git clone https://github.com/MrStalkers121/Termux-apiCommand
