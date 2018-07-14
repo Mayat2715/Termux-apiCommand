@@ -13,6 +13,12 @@ dan pastikan
 
 untuk instalasinya:
 
-$ pkg install termux-api 
+pkg install termux-api 
 
-$ git clone https://github.com/MrStalkers121/Termux-apiCommand
+git clone https://github.com/MrStalkers121/Termux-apiCommand
+
+untuk memakainya
+
+cd Termux-apiCommand
+
+python2 termux-api-command.py
