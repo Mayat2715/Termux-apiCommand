@@ -1,8 +1,7 @@
 # Termux-apiCommand
 mempermudah pengguna memakai termux-API
 untuk pertama kali pakai pastikan termux-api sudah terinstall
-![Screenshot]
-(https://ibb.co/if7vp8)
+![image1](https://ibb.co/if7vp8)
 dan
 (https://ibb.co/goYPhT)
 (https://ibb.co/fQdDbo)
